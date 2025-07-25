@@ -74,6 +74,11 @@
       "source": "/giveaway7-form",
       "destination": "https://forms.gle/aHfF5r9aTGVX6utd9",
       "permanent": false
+    },
+    {
+      "source": "/google-sap",
+      "destination": "https://dev.recodehive.com/Aadil",
+      "permanent": false
     }
   ],
   "rewrites": [
