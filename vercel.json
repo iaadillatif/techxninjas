@@ -74,6 +74,11 @@
       "source": "/giveaway7-form",
       "destination": "https://forms.gle/aHfF5r9aTGVX6utd9",
       "permanent": false
+    },
+    {
+      "source": "/arcade25",
+      "destination": "https://lu.ma/k1p7ztcv?utm_source=whatsapp",
+      "permanent": false
     }
   ],
   "rewrites": [
