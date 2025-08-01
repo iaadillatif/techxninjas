@@ -79,11 +79,6 @@
       "source": "/arcade25",
       "destination": "https://lu.ma/k1p7ztcv?utm_source=whatsapp",
       "permanent": false
-    },
-    {
-      "source": "/arcade",
-      "destination": "https://lu.ma/k1p7ztcv?utm_source=whatsapp",
-      "permanent": false
     }
   ],
   "rewrites": [
